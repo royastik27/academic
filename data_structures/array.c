@@ -1,3 +1,9 @@
+/**
+ * Processing Arrays
+ * AUTHOR: Astik Roy
+ * DATE:  
+**/
+
 #include <stdio.h>
 
 void insert(int arr[], int * n, int k, int item)
